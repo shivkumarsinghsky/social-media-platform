@@ -1,0 +1,7 @@
+# In-memory prototype API. docker compose up -d --build  →  http://localhost:8000/docs
+services:
+  api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    ports: ["${API_PORT:-8000}:8000"]
