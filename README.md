@@ -1,4 +1,4 @@
-# Social Media Platform — Reference System Design
+# Social Media Platform — News Feed System Design: Fan-out, Social Graph and Caching
 
 [![CI](https://github.com/shivkumarsinghsky/social-media-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/shivkumarsinghsky/social-media-platform/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
